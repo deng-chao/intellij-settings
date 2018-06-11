@@ -1,18 +1,39 @@
 <templateSet group="lua">
-  <template name="req" value="local $END$ = require &quot;$TABLE$&quot;" description="require" toReformat="false" toShortenFQNames="true">
-    <variable name="TABLE" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="req" value="local $PLUGIN$ = require &quot;$PLUGIN$&quot;" description="require" toReformat="false" toShortenFQNames="true">
+    <variable name="PLUGIN" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="LUA" value="true" />
     </context>
   </template>
-  <template name="loge" value="ngx.log(ngx.ERR, &quot;$INFO$&quot;)" description="ngx.log(ngx.ERR, &quot;&quot;)" toReformat="false" toShortenFQNames="true">
+  <template name="ngxe" value="ngx.log(ngx.ERR, &quot;$INFO$&quot;)" description="ngx.log(ngx.ERR, &quot;&quot;)" toReformat="false" toShortenFQNames="true">
     <variable name="INFO" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="LUA" value="true" />
     </context>
   </template>
-  <template name="logi" value="ngx.log(ngx.INFO, &quot;$MSG$&quot;)" description="ngx.log(ngx.INFO, msg)" toReformat="false" toShortenFQNames="true">
+  <template name="ngxi" value="ngx.log(ngx.INFO, &quot;$MSG$&quot;)" description="ngx.log(ngx.INFO, msg)" toReformat="false" toShortenFQNames="true">
     <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="LUA" value="true" />
+    </context>
+  </template>
+  <template name="ifok" value="if $EXPRESSION$ then&#10;    $END$&#10;end" description="if-ok-then" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="LUA" value="true" />
+    </context>
+  </template>
+  <template name="ife" value="if $EXPRESSION$ then&#10;    $END$&#10;else&#10;end" description="if-else" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="mfunc" value="function _M:$FUNCTION$(self$PARAM$)&#10;    $END$&#10;end" description="function-_M:func()" toReformat="false" toShortenFQNames="true">
+    <variable name="FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="LUA" value="true" />
+    </context>
+  </template>
+  <template name="dm" value="local _M = {}&#10;$END$&#10;return _M" description="define module" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="LUA" value="true" />
     </context>
