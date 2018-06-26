@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateMavenProjectsToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl alt f4" />
   </action>
@@ -6,8 +9,4 @@
   <action id="Maven.ExecuteGoal">
     <keyboard-shortcut first-keystroke="ctrl 8" />
   </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="shift ctrl f11" />
-  </action>
-  <action id="ToggleBookmarkWithMnemonic" />
 </keymap>
