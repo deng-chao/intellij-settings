@@ -1,0 +1,11 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:898) ~[amqp-client-3.6.5.jar:?]" />
+        <option value="ConnectionFactory" />
+        <option value="IOException" />
+      </list>
+    </option>
+  </component>
+</application>
