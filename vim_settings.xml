@@ -1,0 +1,59 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="F:/dengchao/git/hj-url-shortener/urlshortener-api/src/main/java/com/hujiang/base/urlshortener/api/controller/ShortenerController.java" timestamp="1531310557278">
+        <mark key="'" line="114" column="12" />
+        <mark key="[" line="75" column="29" />
+        <mark key="]" line="75" column="28" />
+        <mark key="^" line="75" column="28" />
+        <mark key="." line="75" column="28" />
+      </file>
+      <file name="F:/dengchao/git/hj-storage/storage-api/pom.xml" timestamp="1531310418586">
+        <mark key="[" line="17" column="60" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="112" column="18" filename="F:/dengchao/git/hj-url-shortener/urlshortener-api/src/main/java/com/hujiang/base/urlshortener/api/controller/ShortenerController.java" />
+      <jump line="2" column="0" filename="F:/dengchao/git/hj-url-shortener/urlshortener-api/src/main/java/com/hujiang/base/urlshortener/api/controller/ShortenerController.java" />
+      <jump line="133" column="0" filename="F:/dengchao/git/hj-url-shortener/urlshortener-api/src/main/java/com/hujiang/base/urlshortener/api/controller/ShortenerController.java" />
+      <jump line="107" column="15" filename="F:/dengchao/git/hj-url-shortener/urlshortener-api/src/main/java/com/hujiang/base/urlshortener/api/controller/ShortenerController.java" />
+      <jump line="114" column="12" filename="F:/dengchao/git/hj-url-shortener/urlshortener-api/src/main/java/com/hujiang/base/urlshortener/api/controller/ShortenerController.java" />
+    </jumps>
+    <registers>
+      <register name=":" type="4">
+        <text>50</text>
+      </register>
+      <register name="/" type="4">
+        <text>query</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>query</last-search>
+      <last-offset />
+      <last-pattern>query</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>query</entry>
+      </history-search>
+      <history-cmd>
+        <entry>50</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
