@@ -12,7 +12,6 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="F:/dengchao/git/hj-url-shortener/urlshortener-api/src/main/resources/application-dev.properties" timestamp="1531367096259" />
       <file name="F:/dengchao/git/hj-url-shortener/urlshortener-api/src/main/java/com/hujiang/base/urlshortener/api/controller/ShortenerController.java" timestamp="1531310557278">
         <mark key="'" line="114" column="12" />
         <mark key="[" line="75" column="29" />
@@ -42,6 +41,14 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="F:/dengchao/git/soa-gateway/lua/command/command_listener.lua" timestamp="1531380653356">
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="46" column="40" />
+        <mark key="^" line="46" column="40" />
+        <mark key="." line="46" column="40" />
+      </file>
+      <file name="F:/dengchao/git/hj-url-shortener/urlshortener-api/src/main/resources/application-dev.properties" timestamp="1531367096259" />
+      <file name="F:/dengchao/git/soa-gateway/lua/utils.lua" timestamp="1531380525671" />
       <file name="F:/dengchao/git/hujiang-framework/hujiang-framework-dao/src/main/java/com/hujiang/basic/framework/dao/config/datasource/DecryptDruidSource.java" timestamp="1531367301409">
         <mark key="[" line="31" column="64" />
         <mark key="]" line="31" column="151" />
@@ -57,11 +64,11 @@
       <jump line="114" column="12" filename="F:/dengchao/git/hj-url-shortener/urlshortener-api/src/main/java/com/hujiang/base/urlshortener/api/controller/ShortenerController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGpVcmwgPSB1cmxzLmdldCh1cmxzLnNpemUoKSAtIDEpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>query</text>
@@ -136,6 +143,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
