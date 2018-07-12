@@ -3,6 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1531367512643">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/dengchao/git/hj-url-shortener/urlshortener-dao/src/main/java/com/hujiang/base/urlshortener/dao/UrlDAO.java" timestamp="1531366416709">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="13" column="7" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="13" column="7" />
+      </file>
+      <file name="F:/dengchao/git/hj-url-shortener/urlshortener-api/src/main/resources/application-dev.properties" timestamp="1531367096259" />
       <file name="F:/dengchao/git/hj-url-shortener/urlshortener-api/src/main/java/com/hujiang/base/urlshortener/api/controller/ShortenerController.java" timestamp="1531310557278">
         <mark key="'" line="114" column="12" />
         <mark key="[" line="75" column="29" />
@@ -16,8 +26,24 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
+      <file name="F:/dengchao/git/hj-url-shortener/urlshortener-dao/src/main/resources/mapper/UrlMapper.xml" timestamp="1531366343030" />
+      <file name="F:/dengchao/git/hj-url-shortener/urlshortener-service/src/main/java/com/hujiang/base/urlshortener/service/UrlShortenServiceImpl.java" timestamp="1531367410302">
+        <mark key="[" line="43" column="25" />
+      </file>
+      <file name="F:/dengchao/git/hj-storage/storage-api/src/main/resources/application-yz.properties" timestamp="1531367021578" />
       <file name="F:/dengchao/git/hj-storage/storage-api/pom.xml" timestamp="1531310418586">
         <mark key="[" line="17" column="60" />
+      </file>
+      <file name="F:/dengchao/git/hj-url-shortener/urlshortener-dao/src/test/java/com/hujiang/base/urlshortener/dao/UrlDAOTest.java" timestamp="1531366491489">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="F:/dengchao/git/hujiang-framework/hujiang-framework-dao/src/main/java/com/hujiang/basic/framework/dao/config/datasource/DecryptDruidSource.java" timestamp="1531367301409">
+        <mark key="[" line="31" column="64" />
+        <mark key="]" line="31" column="151" />
+        <mark key="^" line="31" column="151" />
+        <mark key="." line="31" column="151" />
       </file>
     </filemarks>
     <jumps>
@@ -29,40 +55,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBVCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>query</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBVCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChudW1zW2ldID4gbWF4KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChudW1zW2ldID4gbWF4KSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKChtYXggKyBtaW4pID4gdGFyZ2V0KSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>50</text>
@@ -89,6 +115,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
