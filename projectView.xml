@@ -2,7 +2,7 @@
   <component name="ProjectViewSharedSettings">
     <option name="abbreviatePackages" value="true" />
     <option name="flattenModules" value="true" />
-    <option name="hideEmptyPackages" value="false" />
+    <option name="flattenPackages" value="true" />
     <option name="showModules" value="false" />
   </component>
 </application>
