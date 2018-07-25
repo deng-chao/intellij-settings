@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping pattern="nginx.conf" type="nginx file type" />
+      <mapping ext="conf" type="nginx file type" />
       <mapping ext="test" type="nginx file type" />
     </extensionMap>
   </component>
