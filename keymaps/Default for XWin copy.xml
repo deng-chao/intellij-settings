@@ -13,4 +13,8 @@
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="GotoBookmark8" />
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="ctrl 8" />
+  </action>
 </keymap>
