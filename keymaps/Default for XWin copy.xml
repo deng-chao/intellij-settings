@@ -10,6 +10,9 @@
     <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
