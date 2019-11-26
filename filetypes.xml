@@ -8,8 +8,10 @@
       <mapping pattern="Dockerfile(1)" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="bbb" type="PLAIN_TEXT" />
       <mapping pattern="googleapis.css" type="PLAIN_TEXT" />
       <mapping pattern="googleapis-css" type="PLAIN_TEXT" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="sh___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="manifest" type="PLAIN_TEXT" />
