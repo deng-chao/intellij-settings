@@ -5,6 +5,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".gitkeepme" type="PLAIN_TEXT" />
+      <mapping pattern="txt2" type="PLAIN_TEXT" />
+      <mapping pattern="txt1" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile(1)" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
