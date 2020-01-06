@@ -20,6 +20,7 @@
       <mapping ext="bak2" type="PLAIN_TEXT" />
       <mapping ext="manifest" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="loadbalance" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
       <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
