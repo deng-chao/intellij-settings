@@ -10,6 +10,14 @@
           <option name="url" value="git@git.qutoutiao.net:uqulive/uqs_live.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.qutoutiao.net:quzhibo/backend/live-admin-console.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.qutoutiao.net:uqulive/uq_server_cfg.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\code" />
