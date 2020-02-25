@@ -14,8 +14,8 @@
       <mapping ext="sh___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="manifest" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="nginx file type" />
       <mapping pattern="nginx.conf" type="nginx file type" />
+      <mapping ext="conf" type="nginx file type" />
     </extensionMap>
   </component>
 </application>
