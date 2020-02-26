@@ -8,11 +8,17 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
+    <mask>*.java</mask>
+    <mask>*stress.properties</mask>
+    <mask>pom.xml</mask>
+    <mask>*-pg.properties*</mask>
+    <mask>*-pg.properties</mask>
+    <mask>*-qa.properties</mask>
+    <mask>*pg.properties</mask>
     <mask>*</mask>
   </component>
 </application>

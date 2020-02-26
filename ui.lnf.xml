@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="204800" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="16" />
+    <option name="MAX_LOOKUP_WIDTH2" value="982" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
+  </component>
+</application>

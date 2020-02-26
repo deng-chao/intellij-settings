@@ -1,21 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".gitkeepme" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile(1)" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="googleapis.css" type="PLAIN_TEXT" />
-      <mapping pattern="googleapis-css" type="PLAIN_TEXT" />
-      <mapping ext="default" type="PLAIN_TEXT" />
-      <mapping ext="sh___jb_old___" type="PLAIN_TEXT" />
-      <mapping ext="manifest" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping pattern="nginx.conf" type="nginx file type" />
-      <mapping ext="conf" type="nginx file type" />
     </extensionMap>
   </component>
 </application>
