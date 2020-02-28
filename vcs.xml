@@ -26,6 +26,18 @@
           <option name="url" value="git@git.qutoutiao.net:uqulive/uqs_union.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.qutoutiao.net:quzhibo/backend/live-core-user.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.qutoutiao.net:quzhibo/backend/live-biz-room.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.qutoutiao.net:uqulive/live-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\code" />
